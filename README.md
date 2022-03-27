@@ -1,7 +1,7 @@
 ### Hi
-# やあ
-# Hola
-# 你好
+やあ
+Hola
+你好
 <!--
 **LoserFox/LoserFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
